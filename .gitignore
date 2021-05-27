@@ -1,0 +1,4 @@
+*.weights
+checkpoints/
+detections/*
+__pycache__/
